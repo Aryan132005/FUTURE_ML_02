@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction – Task 2 (Future Interns)
+# 📊 Customer Churn Prediction
 
 This project predicts customer churn using a real-world telecom dataset. It includes complete data preprocessing, feature engineering, visualization, class balancing using SMOTE, and evaluation of three powerful models: **Logistic Regression**, **Random Forest**, and **XGBoost**.
 
@@ -58,8 +58,7 @@ Each model was evaluated using:
 
 ---
 
-## 🎯 Internship Context
-This project is part of **Task 2 – Churn Prediction System** in the **Future Interns Machine Learning Internship**. The internship emphasizes hands-on learning in machine learning through self-paced projects and real-world problem-solving.
+The internship emphasizes hands-on learning in machine learning through self-paced projects and real-world problem-solving.
 
 ---
 
